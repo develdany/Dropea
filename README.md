@@ -8,7 +8,7 @@
 ## Getting started
 * Clone this repository in you local machine
 ```sh
-git clone 
+git clone git@github.com:develdany/Dropea.git
 ```
 
 * Install dependencies
